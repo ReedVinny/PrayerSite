@@ -1,0 +1,23 @@
+
+body {
+     background-image: url("jesusbackground.jpg");
+  background-size: cover;      
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed; 
+}
+
+p {
+    color: black;
+    background-color: beige;
+    font-size: 20px;
+    width: 400px;
+    margin-left: 250px;
+}
+
+.heading {
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    background-color: beige
+}
